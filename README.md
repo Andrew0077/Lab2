@@ -2,4 +2,4 @@
 # Завдання: 
 Простий калькулятор на 4 арифметичних дії
 # Скріншот
-https://github.com/DariiaZ/lab2/blob/master/calc_screen.jpg
+![Image alt](https://github.com/DariiaZ/lab2/blob/master/calc_screen.jpg)<br>
